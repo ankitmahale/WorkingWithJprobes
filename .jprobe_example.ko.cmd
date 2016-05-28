@@ -1,0 +1,1 @@
+cmd_/home/amahale2/Documents/os/jprobe_example.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/amahale2/Documents/os/jprobe_example.ko /home/amahale2/Documents/os/jprobe_example.o /home/amahale2/Documents/os/jprobe_example.mod.o
